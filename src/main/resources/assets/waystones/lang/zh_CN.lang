@@ -1,0 +1,26 @@
+tile.waystones:waystone.name=指路石
+
+item.waystones:returnScroll.name=回程卷轴
+item.waystones:warpStone.name=传送石
+
+waystones:noDimensionWarp=你不能在维度间传送
+waystones:waystoneBroken=绑定的指路石被移动或摧毁
+waystones:scrollNotBound=你还没有激活任何指路石
+waystones:stoneNotCharged=传送石还未冷却
+waystones:activatedWaystone=被激活的指路石： %s
+waystones:nameOccupied=名称 %s 已被使用
+
+gui.waystones:warpStone.selectDestination=选择你的目的地:
+gui.waystones:warpStone.nextPage=下一页
+gui.waystones:warpStone.previousPage=上一页
+gui.waystones:confirmReturn=你真的想要传送回上次的指路石吗？
+gui.waystones:confirmReturn.boundTo=绑定至： %s
+gui.waystones:confirmReturn.noWaystoneActive=没有激活的指路石
+gui.waystones:editWaystone.enterName=输入指路石名称：
+gui.waystones:editWaystone.isGlobal=全局
+
+tooltip.waystones:cooldownLeft=冷却： %d 秒
+tooltip.waystones:boundTo=绑定至： %s
+tooltip.waystones:none=空
+tooltip.waystones:returnToWaystone=返回指路石
+tooltip.waystones:openWaystoneMenu=打开指路石菜单
